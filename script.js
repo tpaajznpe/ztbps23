@@ -1,9 +1,9 @@
 const board = document.getElementById("board");
 
 const words = [
-  "1", "2", "3", "4", "5",
-  "1", "2", "3", "4", "5",
-  "1", "2", "3", "4", "5",
+  "1", "anka pierdoli", "3", "4", "5",
+  "1", "zajebiscie dlugie cos zeby przetestowac lalalal", "3", "4", "5",
+  "1", "martyna bez kokardy", "3", "maciej zadal madre pytanie", "5",
   "1", "2", "3", "4", "5",
   "1", "2", "3", "4", "5",
 ];
