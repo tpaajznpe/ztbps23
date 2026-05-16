@@ -166,6 +166,7 @@ body {
 
     .bg-bottom {
         height: 140px;
+         background-position: center bottom;
     }
 
 
