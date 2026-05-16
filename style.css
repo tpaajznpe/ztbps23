@@ -49,10 +49,10 @@ body {
     display: grid;
 
     grid-template-columns: 
-        repeat(5, min(10vw,120px));
+        repeat(5, min(16vw,120px));
 
     grid-template-rows: 
-        repeat(5, min(10vw,120px));
+        repeat(5, min(16vw,120px));
         
         gap: 10px;
 }
