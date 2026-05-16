@@ -103,7 +103,7 @@ body {
 
     background-image: url("images/top.png");
     background-size: 100% 100%;
-    /*background-position: center top;*/
+    background-position: center top;
     background-repeat: no-repeat;
     
 }
@@ -155,8 +155,8 @@ body {
 }
 
 .bg-top {
-        height: 180px;
-        background-size: cover;
+        height: 140px;
+        
 
     }
 
