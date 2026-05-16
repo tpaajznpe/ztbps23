@@ -12,7 +12,7 @@ body {
   background-image: url("images/middle.png");
     background-repeat: repeat-y;
     background-position: top center;
-    background-size: contain;
+    background-size: 100% 50%;
 
    /* display: flex;
     justify-content: center;
