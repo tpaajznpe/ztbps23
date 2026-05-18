@@ -1,10 +1,10 @@
 const board = document.getElementById("board");
 
 const words = [
-  "wolanie technika do prezki", "andrzejewski - rozwiazane buty", "wykładowca używa tablicy interaktywnej", "koniec kawy", "5",
+  "wolanie technika do prezki", "andrzejewski - rozwiazane buty", "wykładowca używa tablicy interaktywnej", "koniec kawy", "wywyższanie się służb",
   "ogladanie samolotow pod siatkom", "mikrofon ścigały", "FEASTowcy", "pewna osoba pyta jak to zapamietać", "atis u szypera",
-  "Kacper je płatki lion", "martyna bez kokardy", "wykładowca każe adzie mówić głośniej", "maciej zadal madre pytanie", "5",
-  "1", "filmik - full głośność", "ścigała w hawajce", "prezes ulc mentioned", "yyy tak... na poczatku pytania",
+  "Kacper je płatki lion", "martyna bez kokardy", "wykładowca każe adzie mówić głośniej", "maciej zadal madre pytanie", "wilk tankering/teneryfa",
+  "jebac pilotów", "filmik - full głośność", "ścigała w hawajce", "prezes ulc mentioned", "yyy tak... na poczatku pytania",
   "sępy wokół martyny", "wilk medytuje", "andrzejewski nie zgłebia tematu", "Ola nie przychodzi", "bartek włącza telewizor",
 ];
 
