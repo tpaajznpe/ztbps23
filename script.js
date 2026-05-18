@@ -3,7 +3,7 @@ const board = document.getElementById("board");
 const words = [
   "wolanie technika do prezki", "andrzejewski - rozwiazane buty", "wykładowca używa tablicy interaktywnej", "koniec kawy", "wywyższanie się służb",
   "ogladanie samolotow pod siatka", "mikrofon ścigały", "FEASTowcy", "pewna osoba pyta jak to zapamietać", "atis u szypera",
-  "Kacper je płatki lion", "maciej", "wykładowca każe Adzie mówić głośniej", "maciej zadal madre pytanie", "wilk tankering/ teneryfa",
+  "Kacper je płatki lion", "maciej", "wykładowca każe Adzie mówić głośniej", "szkola muzycznej", "wilk tankering/ teneryfa",
   "jebac pilotów", "filmik - full głośność", "ścigała w hawajce", "prezes ulc mentioned", "yyy tak... na poczatku pytania",
   "sępy wokół Martyny", "wilk medytuje", "andrzejewski nie zgłebia tematu", "Ola nie przychodzi", "bartek włącza telewizor",
 ];
