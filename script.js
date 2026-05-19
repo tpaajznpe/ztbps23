@@ -7,7 +7,7 @@ const words = [
   "koniec kawy",
   "wywyższanie się służb",
   "ogladanie samolotow pod siatka",
-  "mikrofon kta",
+  "trzeszczacy mikrofon kta",
   "FEASTowcy",
   "pewna osoba pyta jak to zapamietać",
   "atis u ati",
@@ -31,8 +31,11 @@ const words = [
   "My jako grupa..",
   "Cisowianka Perlage",
   "Szlug shk",
-  "hasło 29",
-  "hasło 30"
+  "pytanie przechwalcze",
+  "ope chwali nasza grupe",
+  "kacper jedzie na zawody kostki",
+  
+  
 ];
 
 function shuffle(array) {
