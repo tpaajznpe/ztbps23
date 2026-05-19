@@ -15,7 +15,7 @@ const words = [
   "maciej",
   "wykładowca każe Adzie mówić głośniej",
   "12 lat szkoly muzycznej",
-  "wilk tankering/ teneryfa",
+  "auu tankering/ teneryfa",
   "jebac pilotów",
   "filmik - full głośność",
   "kta w hawajce",
