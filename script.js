@@ -36,7 +36,8 @@ const words = [
   "kacper jedzie na zawody kostki",
   "zmiana harmono- gramu",
   "roast/ przeklinanie cpr",
-  
+  "wykładowca dissuje pewna osobe",
+  "wzajemne spojrzenia po pytaniu pewnej osoby",
   
 ];
 
