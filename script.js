@@ -34,7 +34,7 @@ const words = [
   "pytanie przechwalcze",
   "ope chwali nasza grupe",
   "kacper jedzie na zawody kostki",
-  "zmiana harmonogramu",
+  "zmiana harmono- gramu",
   "roast/ przeklinanie cpr",
   
   
