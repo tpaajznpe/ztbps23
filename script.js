@@ -35,7 +35,7 @@ const words = [
   "ope chwali nasza grupe",
   "kacper jedzie na zawody kostki",
   "zmiana harmonogramu",
-  "roast/przeklinanie cpr",
+  "roast/ przeklinanie cpr",
   
   
 ];
